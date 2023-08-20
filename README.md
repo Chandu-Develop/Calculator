@@ -19,7 +19,7 @@ Contributions are welcome! If you have any suggestions or improvements, feel fre
 If you want to build the app from source, you will need to have Android Studio and Git installed on your computer.
 
 First, clone the Simple Calculator repository from GitHub to your local machine by opening a command prompt or terminal and navigating to the directory where you want to clone the repository. 
-Then, enter the following command:  git clone https://github.com/Chandu-Develop/Simple-Calculator/
+Then, enter the following command:  ```git clone https://github.com/Chandu-Develop/Simple-Calculator/```
 
 
 This will create a new directory called `Simple-Calculator` containing the project files.
